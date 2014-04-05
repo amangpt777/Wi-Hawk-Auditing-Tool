@@ -41,7 +41,7 @@ To use WiHawk, please follow below mentioned steps:
         (b) Audit Range of IPs or Network: Provide range of valid IPs in below mentioned format:
                   Ex: 192.168.1.1-25   or 192.168.1.1/25
                   
-        (c) Audit Using Shodan API: To use Shodan API , you must have an API key to scan vulnerbale IPs in your Country, City and Geo Location.
+        (c) Audit Using Shodan API: To use Shodan API , you must have an API key to scan vulnerbale IPs in your Country, City and Geo Location
         
               
           
